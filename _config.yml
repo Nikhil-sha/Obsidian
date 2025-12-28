@@ -1,1 +1,6 @@
-theme: jekyll-theme-chirpy
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: "Obsidian Notes"
+tagline: "Class 12 (Boards) Notes"
