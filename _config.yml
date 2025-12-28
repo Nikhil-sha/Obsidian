@@ -2,5 +2,7 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
 
+markdown: GFM
+
 title: "Obsidian Notes"
 tagline: "Class 12 (Boards) Notes"
