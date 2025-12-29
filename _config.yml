@@ -1,7 +1,0 @@
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-title: "Nikhil's Notes"
