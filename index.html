@@ -129,7 +129,7 @@
 			items.forEach(item => {
 				const li = document.createElement("li");
 				const link = document.createElement("a");
-				link.href = item.type === "file" ? item.html_url : "#";
+				link.href = item.type === "file" ? `${window.location.origin}/view.html?src=${item.path}` : "#";
 				link.className = item.type;
 				link.innerHTML = `<i class="${item.type === "dir" ? "ri-folder-fill" : "ri-file-code-line"}"></i> ${item.name}`;
 				
@@ -153,7 +153,7 @@
 		}
 		
 		// Init
-		buildTree("", treeEl);
+		buildTree("notes", treeEl);
 	</script>
 </body>
 
