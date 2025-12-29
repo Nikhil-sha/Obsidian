@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"5af4bfbd960aa370","x":-187,"y":-280,"width":207,"height":100,"type":"text","text":"U"},
-		{"id":"1ab1716b683cf649","x":-187,"y":-140,"width":287,"height":420,"type":"link","url":"https://nikhil-sha.github.io/Ripple"}
-	],
-	"edges":[]
-}
