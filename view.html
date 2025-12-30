@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title></title>
-	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	
 	<style type="text/css">
 		:root {
@@ -273,7 +273,7 @@
 	
 	<script>
 		const params = new URLSearchParams(window.location.search);
-		const src = "https://raw.githubusercontent.com/Nikhil-sha/Nikhil-sha/refs/heads/main/README.md" //params.get("src");
+		const src = params.get("src");
 		
 		const filename = src.split('/');
 		document.head.querySelector('title').textContent = filename[filename.length - 1];
