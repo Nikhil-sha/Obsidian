@@ -4,7 +4,7 @@
 
 ## Characters ( पात्र )
 - Franz ( फ्रांज )
-- M. Hamel ( एम० हैमेल )
+- M. Hamel ( एम. हैमेल )
 
 ### Franz
 Franz is a young schoolboy in the French region of Alsace-Lorraine. He is like many boys his age; he dislikes going to school, is afraid of his strict teacher, and prefers to spend his time outside. He is not interested in his lessons and often thinks about playing instead of studying.
@@ -14,3 +14,16 @@ However, when he learns that this is the last day he will be taught French (beca
 फ्रांज फ्रांस के अलसैस-लोरेन इलाके का एक छोटा स्कूल का लड़का है। वह अपनी उम्र के कई लड़कों जैसा है; उसे स्कूल जाना पसंद नहीं है, वह अपने सख्त टीचर से डरता है, और अपना समय बाहर बिताना पसंद करता है। उसे अपनी क्लास में कोई दिलचस्पी नहीं है और वह अक्सर पढ़ाई के बजाय खेलने के बारे में सोचता है।
 
 लेकिन, जब उसे पता चलता है कि यह आखिरी दिन है जब उसे फ्रेंच पढ़ाई जाएगी (क्योंकि जर्मनी ने इस पर कब्ज़ा कर लिया है और इस पर बैन लगा दिया है), तो वह पूरी तरह बदल जाता है। उसे अचानक अपनी भाषा और टीचर के लिए गहरा प्यार और सम्मान महसूस होता है। वह जो खो रहा है उसकी असली कीमत समझता है। उसका बचपना वाला आलस गायब हो जाता है, और वह एक गंभीर, ध्यान देने वाला और देशभक्त स्टूडेंट बन जाता है जो अपनी पढ़ाई को हल्के में लेने के पछतावे से भरा होता है। फ्रांज पूरे समुदाय के मासूम पछतावे को दिखाता है।
+
+### M. Hamel
+
+M. Hamel was an elderly teacher in a French village. For fourty years, he had taught French with dedication. Normally, he was strict, used his iron ruler to maintain discipline. However, on his last day of teaching (as German was imposed on the region), he transformed. He wore his formal clothes, was patient, and taught with a deep, heartfelt passion. His love for the French language and his regret for his students' lost opportunities were clear in his emotional final lesson.
+
+एम. हैमेल एक फ्रेंच गांव में एक बुज़ुर्ग टीचर थे। चालीस साल तक, उन्होंने पूरी लगन से फ्रेंच पढ़ाया था। आम तौर पर, वे सख़्त थे, डिसिप्लिन बनाए रखने के लिए अपने लोहे के रूलर का इस्तेमाल करते थे। लेकिन, पढ़ाने के अपने आखिरी दिन (क्योंकि उस इलाके में जर्मन भाषा थोपी गई थी), उनमें बदलाव आया। उन्होंने अपने फॉर्मल कपड़े पहने, सब्र रखा, और गहरे, दिल से लगे जुनून के साथ पढ़ाया। फ्रेंच भाषा के लिए उनका प्यार और अपने स्टूडेंट्स के खोए हुए मौकों का अफ़सोस उनके इमोशनल आखिरी लेसन में साफ़ दिख रहा था।
+
+## Summary (सारांश)
+
+- **Writer:** Alphonse Daudet
+- **Narrator:** Franz
+- **Setting:** A small town in Alsace-Lorraine region of France after the <mark>Franco-Prussian War (1870-71)</mark>
+- **Main Event:** Germany takes over the region of Alsace-Lorraine, and an <mark>order from comes from Berlin to teach German in place of French</mark>.
