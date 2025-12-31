@@ -9,12 +9,6 @@
 |27|2 - 5:15|Physics|1|
 
 <script>
-/**
- * Calculates the number of days remaining before a specified date.
- *
- * @param {Date} targetDate - The date to calculate days remaining for.
- * @returns {number} The number of days remaining.
- */
 function daysRemaining(targetDate) {
   const today = new Date();
   const timeDiff = targetDate.getTime() - today.getTime();
