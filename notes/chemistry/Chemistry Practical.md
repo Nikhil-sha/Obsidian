@@ -23,3 +23,7 @@
 ![Page 10](https://lh3.googleusercontent.com/d/1o_zZvaF1ML_mPrPhzrRNCbvJwXieCGLH=w2000)
 
 ![Page 11](https://lh3.googleusercontent.com/d/1omWFjFk2ewuF5-sLbqVQM1JirdAOUp2J=w2000)
+
+![Page 12](https://lh3.googleusercontent.com/d/1oyyon1ExpqkMB-FuGsprZH-AK5C24vp5=w2000)
+
+![Page 13](https://lh3.googleusercontent.com/d/1p0iilpDAys7nT-QQux5O-HW8PyMYWac5=w2000)
