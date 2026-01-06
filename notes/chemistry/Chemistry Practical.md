@@ -16,4 +16,10 @@
 
 ![Page 7](https://lh3.googleusercontent.com/d/1oGBVoWoGTxqS0j4QKwLKock7RC2Z_R1j=w2000)
 
-Ab kalh likkhab!!
+![Page 8](https://lh3.googleusercontent.com/d/1oRmbWbL5PRXBPd90kOQBBbRnOHrPVFc8=w2000)
+
+![Page 9](https://lh3.googleusercontent.com/d/1oYBndov3EBhCBB9sZsou6D2hFkRZKTAr=w2000)
+
+![Page 10](https://lh3.googleusercontent.com/d/1o_zZvaF1ML_mPrPhzrRNCbvJwXieCGLH=w2000)
+
+![Page 11](https://lh3.googleusercontent.com/d/1omWFjFk2ewuF5-sLbqVQM1JirdAOUp2J=w2000)
