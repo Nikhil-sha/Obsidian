@@ -2,7 +2,9 @@
 
 ---
 
-![Page 1](https://lh3.googleusercontent.com/d/1n1-pCromfzQpu15gszXR5IuEWR9UppFT=w2000)
+![Page 1](https://lh3.googleusercontent.com/d/1pVuRkLCj7b1I76wawWWq2u09sIDlfcp9=w2000)
+
+![Figure 1](https://lh3.googleusercontent.com/d/1pZatxqBzURLhYt9qOjytAoKC0A4-8uma=w2000)
 
 ![Page 2](https://lh3.googleusercontent.com/d/1nn7nAH3yFLj6q-xRhcnzJp8ZRiDj7AWh=w2000)
 
