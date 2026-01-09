@@ -250,6 +250,53 @@
 				0 12px 35px rgba(0, 0, 0, 0.6);
 		}
 		
+		/* ================================
+   Figure / Diagram Styling
+   ================================ */
+		
+		figure {
+			margin: 2.5rem 0;
+			padding: 1.2rem;
+			background: var(--bg-soft);
+			border: 1px solid var(--border);
+			border-radius: 14px;
+		}
+		
+		figure img,
+		figure svg {
+			display: block;
+			max-width: 100%;
+			margin: auto;
+			border-radius: 10px;
+			background: #000;
+		}
+		
+		/* Optional subtle focus ring */
+		figure img {
+			box-shadow: 0 0 0 1px var(--border);
+		}
+		
+		/* Caption */
+		figcaption {
+			margin-top: 0.8rem;
+			font-size: 0.9rem;
+			color: var(--muted);
+			text-align: center;
+		}
+		
+		/* Caption label (Figure 1, Fig. A, etc.) */
+		figcaption::before {
+			content: "Figure — ";
+			color: var(--accent);
+			font-weight: 500;
+		}
+		
+		/* Inline reference look */
+		figure em {
+			color: var(--accent);
+			font-style: normal;
+		}
+		
 		/* MathJax */
 		mjx-container {
 			margin: 1.5rem 0;
