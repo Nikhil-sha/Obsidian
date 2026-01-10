@@ -3,6 +3,7 @@
 ---
 
 ![Page 1](https://lh3.googleusercontent.com/d/1pVuRkLCj7b1I76wawWWq2u09sIDlfcp9=w2000)
+[^1]
 
 <figure>
 <img alt="Figure 1" src="https://lh3.googleusercontent.com/d/1pZatxqBzURLhYt9qOjytAoKC0A4-8uma=w2000" />
@@ -50,3 +51,5 @@
 ![Page 16](https://lh3.googleusercontent.com/d/1pN0wvuC1A-8WKuxEdsHS1hH9MYUWYs_P=w2000)
 
 Completed 🎉
+
+[^1]: Page no. 1 - Prayog Sankhya 01: Siddhant ke reaction me '8H_2OSO_4' Ki jagah '8H_2SO_4' hai.
