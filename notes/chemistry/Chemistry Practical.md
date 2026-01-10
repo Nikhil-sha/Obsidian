@@ -15,7 +15,7 @@
 ![Page 3](https://lh3.googleusercontent.com/d/1o4EwPRfch7w4xckaz0C4rP4d5jQ6o84D=w2000)
 
 ![Page 4](https://lh3.googleusercontent.com/d/1o4WoMda9RlBEs6viAzLyWGGMhj_aICE-=w2000)
-> Page no. 4 - Prayog Sankhya 02: Parinam aur Lavan me Ammonium ko Ammonia likkha hai.
+> Page no. 4 - Prayog Sankhya 02: Parinam aur Lavan me Ammonia ki jagah Ammonium hai.
 
 <figure>
 <img alt="Figure 1" src="https://lh3.googleusercontent.com/d/1q83UpX-f1mFx3MMI5Dfzhn99oLqVUOh3=w2000" />
@@ -29,7 +29,7 @@
 ![Page 7](https://lh3.googleusercontent.com/d/1oGBVoWoGTxqS0j4QKwLKock7RC2Z_R1j=w2000)
 
 ![Page 8](https://lh3.googleusercontent.com/d/1oRmbWbL5PRXBPd90kOQBBbRnOHrPVFc8=w2000)
-> Page no. 4 - Prayog Sankhya 02: Amliya Moolak ke Sambhav Parikshan me Ammonium ko Ammonia likkha hai.
+> Page no. 4 - Prayog Sankhya 02: Amliya Moolak ke Sambhav Parikshan me Ammonia ki jagah Ammonium hai.
 
 ![Page 9](https://lh3.googleusercontent.com/d/1oYBndov3EBhCBB9sZsou6D2hFkRZKTAr=w2000)
 > Page no. 9 - Prayog Sankhya 04: Kshareeya Moolak ke Sambhav Parikshan me $CH_3COONH_3$ ki jagah $CH_3COONH_4$ hai.
