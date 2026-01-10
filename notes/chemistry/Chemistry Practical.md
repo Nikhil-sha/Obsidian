@@ -32,6 +32,11 @@
 
 ![Page 10](https://lh3.googleusercontent.com/d/1o_zZvaF1ML_mPrPhzrRNCbvJwXieCGLH=w2000)
 
+<figure>
+<img alt="Figure 1" src="https://lh3.googleusercontent.com/d/1qp_RsH2EeopNKEWXCcuViPGrmAs6SWXl=w2000" />
+<figcaption>Prayog Sankhya 05</figcaption>
+</figure>
+
 ![Page 11](https://lh3.googleusercontent.com/d/1omWFjFk2ewuF5-sLbqVQM1JirdAOUp2J=w2000)
 
 ![Page 12](https://lh3.googleusercontent.com/d/1oyyon1ExpqkMB-FuGsprZH-AK5C24vp5=w2000)
