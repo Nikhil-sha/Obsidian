@@ -7,3 +7,9 @@
 <img alt="Page 3" src="https://lh3.googleusercontent.com/d/1s55aGVOwzDGx7dFrWm2jxND-tnkQNbVm=w2000" />
 
 <img alt="Page 4" src="https://lh3.googleusercontent.com/d/1sCdPSJN7_4dpBTFNAF0mqXiQQh4l4DZD=w2000" />
+
+<img alt="Page 5" src="https://lh3.googleusercontent.com/d/1u1astgUytcGvOlWj_mwuaDjUXxnDoQ2a=w2000" />
+
+<img alt="Page 6" src="https://lh3.googleusercontent.com/d/1u8PAPRtNuX62N2zZ-GDfwcruaUqyTuim=w2000" />
+
+> Page no. 6 Prayog Sankhya 3: $2 - \frac{12.13}{20.13}$ me 12.13 nahi 12.3 hai.
