@@ -1,5 +1,6 @@
 # Physics Practical Class 12
 
+<!--
 <img alt="Page 1" src="https://lh3.googleusercontent.com/d/1rnaUM-uVTHYV74Ks_kBeMx_5y-zknX6Z=w2000" />
 
 > Page no. 1 - Prayog Sankhya 01: Fourth heading me "अवलत" Ki jagah "अवतल" hai.
@@ -19,3 +20,5 @@
 <img alt="Page 7" src="https://lh3.googleusercontent.com/d/1uat-hpXLywO-f4gG7Kl4RDGHcxvOcQ42=w2000" />
 
 <img alt="Page 8" src="https://lh3.googleusercontent.com/d/1udrh4sQ4z92ceNs3Rnbtwo-t5kWHEUUZ=w2000" />
+
+-->
