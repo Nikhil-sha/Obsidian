@@ -11,11 +11,21 @@
 ## Prayog Sankhya 01
 <img alt="Page 1" src="https://lh3.googleusercontent.com/d/11zxwnQC1dbKKQD32QVU6cYsjVHMx9KXm=w2000" />
 
+<figure>
+<img alt="Figure 1" src="https://lh3.googleusercontent.com/d/14U7Lz_F2MPqv-aJCZCV_SHYBjTlF-hRM=w2000" />
+<figcaption>Prayog Sankhya 01</figcaption>
+</figure>
+
 <img alt="Page 2" src="https://lh3.googleusercontent.com/d/120irdbKkpczarvkHF_IsC_oqUYwvMOZ6=w2000" />
 
 ---
 
 ## Prayog Sankhya 02
+<figure>
+<img alt="Figure 2" src="https://lh3.googleusercontent.com/d/14dCXg23K06acRyg7VDbwN3_iTaa8Xh4m=w2000" />
+<figcaption>Prayog Sankhya 01</figcaption>
+</figure>
+
 <img alt="Page 3" src="https://lh3.googleusercontent.com/d/12zKioTK1atPtD4YsP6FlGQWYh5OORJ5U=w2000" />
 
 <img alt="Page 4" src="https://lh3.googleusercontent.com/d/12zrZgtVUe6W4Z7WRLF5SZzZue87rxqdo=w2000" />
@@ -23,6 +33,11 @@
 ---
 
 ## Prayog Sankhya 03
+<figure>
+<img alt="Figure 3" src="https://lh3.googleusercontent.com/d/14fh5OTLMJTXsALxtf5uWiS39Vobt_1ZA=w2000" />
+<figcaption>Prayog Sankhya 01</figcaption>
+</figure>
+
 <img alt="Page 5" src="https://lh3.googleusercontent.com/d/1u1astgUytcGvOlWj_mwuaDjUXxnDoQ2a=w2000" />
 
 <img alt="Page 6" src="https://lh3.googleusercontent.com/d/1u8PAPRtNuX62N2zZ-GDfwcruaUqyTuim=w2000" />
