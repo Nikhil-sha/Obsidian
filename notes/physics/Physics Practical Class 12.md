@@ -11,7 +11,7 @@
 ## Prayog Sankhya 01
 <img alt="Page 1" src="https://lh3.googleusercontent.com/d/11zxwnQC1dbKKQD32QVU6cYsjVHMx9KXm=w2000" />
 
-<img alt="Page 2" src="https://lh3.googleusercontent.com/d/11zxwnQC1dbKKQD32QVU6cYsjVHMx9KXm=w2000" />
+<img alt="Page 2" src="https://lh3.googleusercontent.com/d/120irdbKkpczarvkHF_IsC_oqUYwvMOZ6=w2000" />
 
 ---
 <!--
