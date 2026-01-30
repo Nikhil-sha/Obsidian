@@ -1,5 +1,7 @@
 # Class 12 Board Examination Time Table - February 2026
 
+#Boards
+
 |Date|Time|Subject|Gap (before)|
 | - | - | - | - |
 |18|2 - 5:15|Hindi|<span onclick="if (this.textContent === 'Click!') {const targetDate = new Date('2026-02-18');const today = new Date();const timeDiff = targetDate.getTime() - today.getTime();const daysDiff = Math.ceil(timeDiff / (1000 * 3600 * 24));this.textContent = daysDiff;}">Click!</span>|

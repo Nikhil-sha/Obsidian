@@ -1,5 +1,7 @@
 # Class 12 Board Exam Model Paper 2026
 
+#Boards
+
 |Code|Subject|
 | --- | --- |
 |102|[Hindi (Gen.)](https://upmsp-cdn.s3.ap-south-1.amazonaws.com/modelpaper/class12/102-General-Hindi.pdf)|
