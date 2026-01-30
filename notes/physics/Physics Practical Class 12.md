@@ -29,16 +29,16 @@
 
 > Page no. 6 - Prayog Sankhya 3: $2 - \frac{12.13}{20.13}$ me 12.13 nahi 12.3 hai.
 
-<!--
-
 ---
 
 ## Prayog Sankhya 04
-<img alt="Page 7" src="https://lh3.googleusercontent.com/d/1uat-hpXLywO-f4gG7Kl4RDGHcxvOcQ42=w2000" />
+<img alt="Page 7" src="https://lh3.googleusercontent.com/d/13R8H4AGACCYiNQttyP1td_8n9rRxtIHq=w2000" />
 
-<img alt="Page 8" src="https://lh3.googleusercontent.com/d/1udrh4sQ4z92ceNs3Rnbtwo-t5kWHEUUZ=w2000" />
+<img alt="Page 8" src="https://lh3.googleusercontent.com/d/13TFv63WGde7b8s1BW8KyJATfCqwX_BZQ=w2000" />
 
 ---
+
+<!--
 
 ## Prayog Sankhya 05
 <img alt="Page 9" src="https://lh3.googleusercontent.com/d/1U0gT-yFBbZpIJ0sJGborIht85oQyRF8W=w2000" />
