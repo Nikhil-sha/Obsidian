@@ -14,14 +14,13 @@
 <img alt="Page 2" src="https://lh3.googleusercontent.com/d/120irdbKkpczarvkHF_IsC_oqUYwvMOZ6=w2000" />
 
 ---
-<!--
-## Prayog Sankhya 02
-<img alt="Page 3" src="https://lh3.googleusercontent.com/d/1s55aGVOwzDGx7dFrWm2jxND-tnkQNbVm=w2000" />
 
-<img alt="Page 4" src="https://lh3.googleusercontent.com/d/1sCdPSJN7_4dpBTFNAF0mqXiQQh4l4DZD=w2000" />
+## Prayog Sankhya 02
+<img alt="Page 3" src="https://lh3.googleusercontent.com/d/12zKioTK1atPtD4YsP6FlGQWYh5OORJ5U=w2000" />
+
+<img alt="Page 4" src="https://lh3.googleusercontent.com/d/12zrZgtVUe6W4Z7WRLF5SZzZue87rxqdo=w2000" />
 
 ---
--->
 
 ## Prayog Sankhya 03
 <img alt="Page 5" src="https://lh3.googleusercontent.com/d/1u1astgUytcGvOlWj_mwuaDjUXxnDoQ2a=w2000" />
