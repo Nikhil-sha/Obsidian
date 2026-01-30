@@ -38,9 +38,16 @@
 
 ---
 
-<!--
-
 ## Prayog Sankhya 05
-<img alt="Page 9" src="https://lh3.googleusercontent.com/d/1U0gT-yFBbZpIJ0sJGborIht85oQyRF8W=w2000" />
+<img alt="Page 9" src="https://lh3.googleusercontent.com/d/13WC9BvA67RIUORplXdKFhxrsy-XUSGK-=w2000" />
 
--->
+<img alt="Page 10" src="https://lh3.googleusercontent.com/d/13Wz1g2Fs42yiq465TpRhls7pN9Z5jhnO=w2000" />
+
+<img alt="Page 11" src="https://lh3.googleusercontent.com/d/142a6ADT3P7V398RtgNBRkleSq97bQlV1=w2000" />
+
+---
+
+## Prayog Sankhya 06
+<img alt="Page 12" src="https://lh3.googleusercontent.com/d/14Cqz7h1XSXGLgCtDzc9F52Z1dBcWrUi8=w2000" />
+
+<img alt="Page 13" src="https://lh3.googleusercontent.com/d/14Ew_xTA8WjNAvH71ERGK6g6-ro8cmux9=w2000" />
