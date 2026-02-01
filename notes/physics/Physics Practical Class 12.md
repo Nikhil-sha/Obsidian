@@ -79,3 +79,9 @@
 
 <img alt="Page 18" src="https://lh3.googleusercontent.com/d/15TljmbMchd-O-Bn1oUbVqARlwWnoQ_tB=w2000" />
 
+## Prayog Sankhya 09
+<img alt="Page 19" src="https://lh3.googleusercontent.com/d/15rfsH0o5HsixdPS46dS9TWx-oYuhvW8R=w2000" />
+
+<img alt="Page 20" src="https://lh3.googleusercontent.com/d/15o8dErjBcjXi3UWDW6vlD_GWo8Sn63os=w2000" />
+
+<img alt="Page 21" src="https://lh3.googleusercontent.com/d/15rWSOchXjPyOyhDugEXFG5_JiDxxfI5Y=w2000" />
