@@ -66,3 +66,16 @@
 <img alt="Page 12" src="https://lh3.googleusercontent.com/d/14Cqz7h1XSXGLgCtDzc9F52Z1dBcWrUi8=w2000" />
 
 <img alt="Page 13" src="https://lh3.googleusercontent.com/d/14Ew_xTA8WjNAvH71ERGK6g6-ro8cmux9=w2000" />
+
+## Prayog Sankhya 07
+<img alt="Page 14" src="https://lh3.googleusercontent.com/d/15HrwFaVDiYnOQUZ_kuvwgYGz8Z_3wA5z=w2000" />
+
+<img alt="Page 15" src="https://lh3.googleusercontent.com/d/15JpSI0QGYXQ_kjZozGAj7uAyhur-4W14=w2000" />
+
+<img alt="Page 16" src="https://lh3.googleusercontent.com/d/15RFfyFdzZ6cwljxQGT1Zs7NdZR8_UEoG=w2000" />
+
+## Prayog Sankhya 08
+<img alt="Page 17" src="https://lh3.googleusercontent.com/d/15RmwDMaWQzB0rEnRmZ5utc3UhLPHroc7=w2000" />
+
+<img alt="Page 18" src="https://lh3.googleusercontent.com/d/15TljmbMchd-O-Bn1oUbVqARlwWnoQ_tB=w2000" />
+
