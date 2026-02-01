@@ -23,7 +23,7 @@
 ## Prayog Sankhya 02
 <figure>
 <img alt="Figure 2" src="https://lh3.googleusercontent.com/d/14dCXg23K06acRyg7VDbwN3_iTaa8Xh4m=w2000" />
-<figcaption>Prayog Sankhya 01</figcaption>
+<figcaption>Prayog Sankhya 02</figcaption>
 </figure>
 
 <img alt="Page 3" src="https://lh3.googleusercontent.com/d/12zKioTK1atPtD4YsP6FlGQWYh5OORJ5U=w2000" />
@@ -35,7 +35,7 @@
 ## Prayog Sankhya 03
 <figure>
 <img alt="Figure 3" src="https://lh3.googleusercontent.com/d/14fh5OTLMJTXsALxtf5uWiS39Vobt_1ZA=w2000" />
-<figcaption>Prayog Sankhya 01</figcaption>
+<figcaption>Prayog Sankhya 03</figcaption>
 </figure>
 
 <img alt="Page 5" src="https://lh3.googleusercontent.com/d/1u1astgUytcGvOlWj_mwuaDjUXxnDoQ2a=w2000" />
