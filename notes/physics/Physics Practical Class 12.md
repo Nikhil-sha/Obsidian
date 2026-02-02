@@ -8,6 +8,8 @@
 
 <img alt="index" src="https://lh3.googleusercontent.com/d/128d28kMIxePLnMlMjoTWfUwlfkqrnzCx=w2000"/>
 
+<img alt="index 2" src="https://lh3.googleusercontent.com/d/175GD_Zk2dtplYK8_IikZZztZ9lnBU0aZ=w2000"/>
+
 ## Prayog Sankhya 01
 <img alt="Page 1" src="https://lh3.googleusercontent.com/d/11zxwnQC1dbKKQD32QVU6cYsjVHMx9KXm=w2000" />
 
@@ -54,6 +56,11 @@
 </figure>
 
 <img alt="Page 7" src="https://lh3.googleusercontent.com/d/13R8H4AGACCYiNQttyP1td_8n9rRxtIHq=w2000" />
+
+<figure>
+<img alt="Figure 3" src="https://lh3.googleusercontent.com/d/16u6OCzP_g_Mfm9Ixt9XODrJZngaz6G_I=w2000" />
+<figcaption>Prayog Sankhya 04 Graph</figcaption>
+</figure>
 
 <img alt="Page 8" src="https://lh3.googleusercontent.com/d/13TFv63WGde7b8s1BW8KyJATfCqwX_BZQ=w2000" />
 
@@ -103,6 +110,11 @@
 ---
 
 ## Prayog Sankhya 08
+<figure>
+<img alt="Figure 3" src="https://lh3.googleusercontent.com/d/170-hWuokYj5thA2qmheUamRXRC3pMwMI=w2000" />
+<figcaption>Prayog Sankhya 08</figcaption>
+</figure>
+
 <img alt="Page 17" src="https://lh3.googleusercontent.com/d/15RmwDMaWQzB0rEnRmZ5utc3UhLPHroc7=w2000" />
 
 <img alt="Page 18" src="https://lh3.googleusercontent.com/d/15TljmbMchd-O-Bn1oUbVqARlwWnoQ_tB=w2000" />
@@ -117,6 +129,11 @@
 </figure>
 
 <img alt="Page 19" src="https://lh3.googleusercontent.com/d/15rfsH0o5HsixdPS46dS9TWx-oYuhvW8R=w2000" />
+
+<figure>
+<img alt="Figure 3" src="https://lh3.googleusercontent.com/d/171rvIQstD383orvra737aOvwsVDhpGMw=w2000" />
+<figcaption>Prayog Sankhya 09 Graph</figcaption>
+</figure>
 
 <img alt="Page 20" src="https://lh3.googleusercontent.com/d/15o8dErjBcjXi3UWDW6vlD_GWo8Sn63os=w2000" />
 
